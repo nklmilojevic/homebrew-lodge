@@ -1,6 +1,6 @@
 cask "lodge" do
-  version "1.0.0"
-  sha256 "a524aac1d495b60301e4109e2fd003fc945c20dd766080ef0933995efa40c4e4"
+  version "1.0.1"
+  sha256 "bf4e9a4470299e4baf5458dd9f538fdd81f3fab6251df2489aa6956077af5d61"
 
   url "https://github.com/nklmilojevic/Lodge/releases/download/v#{version}/Lodge.app.zip"
   name "Lodge"
